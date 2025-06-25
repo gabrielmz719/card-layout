@@ -24,6 +24,8 @@ main .container{
     background-color: aqua;
     height: 150px;
     width: 300px;
+    border-radius: 15px;
+
 }
 .card a{
     background-color: black;
