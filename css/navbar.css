@@ -1,0 +1,44 @@
+nav {
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+nav span {
+    font-size: 1.5rem;
+    margin: 3rem;
+    transition-duration: 0.5s;
+    animation: ease-in-out;
+    cursor: not-allowed;
+}
+
+nav span:hover {
+    transform: scale(1.2);
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50%;
+    list-style-type: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 1.2rem;
+
+}
+
+.nav-list {
+    margin: 3rem;
+}
+
+.nav-item {
+    margin: 3rem;
+    transition-duration: 0.5s;
+    animation: ease-in-out;
+    cursor: not-allowed;
+}
+
+.nav-item:hover {
+    transform: scale(1.2);
+}
