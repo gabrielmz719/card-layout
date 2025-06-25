@@ -23,10 +23,6 @@ O principal objetivo deste projeto é **treinar e fixar os conhecimentos em Flex
 - Estilo limpo, com foco na legibilidade e organização;
 - Cards com imagens, títulos e descrições.
 
-## 🖼️ Demonstração
-
-> 💡 Se desejar, adicione aqui uma imagem do layout ou um link para o GitHub Pages / Vercel com a versão hospedada do projeto.
-
 ## 📚 Aprendizados
 
 Durante o desenvolvimento, foram reforçados conhecimentos sobre:
