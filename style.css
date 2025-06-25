@@ -1,5 +1,42 @@
 body{
     margin: 0;
     padding: 0;
+    background-color: black;
     
 }
+main .container{
+    display: flex;
+    justify-content: center;/* serve para vc alinhar horizontalmente */
+    align-items: center;
+    flex-wrap: wrap;
+}
+.card{
+    background-color: aliceblue;
+    width: 300px;
+    /* height: 419px; */
+    margin: 10px;
+    border-radius: 15px;
+}
+.card p,h3{
+    padding: 5px;
+}
+.card-image{
+    background-color: aqua;
+    height: 150px;
+    width: 300px;
+}
+.card a{
+    background-color: black;
+    color:white;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+}
+.card a:hover{
+    background-color: rgb(238, 235, 235);
+    color:rgb(0, 0, 0);
+    transition:0.5s;
+}
+
+
